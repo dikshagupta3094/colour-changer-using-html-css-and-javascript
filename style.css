@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+#btn{
+    border-radius: 40px;
+    font-size: 25px;
+    padding: 12px 15px 12px 15px;
+    background-color: gray;
+    color: #211f1f;
+    font-weight: 400;
+    border-color: gray;
+    cursor: pointer;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
